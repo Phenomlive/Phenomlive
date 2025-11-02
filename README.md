@@ -71,7 +71,7 @@ I work with a versatile tech stack to build, deploy, and optimize applications:
 
 - 🥇 Solved **900+ competitive programming problems** across platforms like Codeforces, LeetCode, and HackerRank.
 - 🌟 Built production-grade APIs using **Django REST Framework** for scalable web applications.
-- 🚀 Actively contributing to open-source projects and learning **AI/ML** and **DevOps** to stay at the forefront of tech.
+- 🚀 Actively learning **AI/ML** and **DevOps** to stay at the forefront of tech.
 
 ---
 
